@@ -1,0 +1,106 @@
+
+  body  {
+    background-color: rgb(233, 233, 233);
+    color: rgb(71, 84, 94);
+    padding: 20px;
+    margin: 15px;
+    padding-top: 20px;
+    
+  }
+
+.navbar {
+  background-color: rgb(8, 41, 68);
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar ul li a:hover {
+    color: #ffd700;
+}
+
+main {
+  padding-top: 80px; /* Sesuaikan dengan tinggi header */
+}
+
+.section {
+    padding: 100px 20px;
+    text-align: center;
+    scroll-margin-top: 80px;
+}
+
+center {
+  border: 5px solid rgb(8, 41, 68); /* Garis tepi */
+  padding: 20px; /* Ruang dalam box */
+  margin: 20px auto; /* Jarak antar box dan posisi tengah */
+  border-radius: 10px; /* Sudut melengkung */
+  background-color: white; /* Latar belakang semi transparan */
+  max-width: 800px; /* Batas lebar agar tidak terlalu besar */
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); /* Efek bayangan */
+}
+
+.image {
+  display: flex; /* Membuat tata letak horizontal */
+  justify-content: space-between; /* Memberi jarak antara teks dan gambar */
+  align-items: center; /* Agar sejajar secara vertikal */
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  width: 65%;
+  margin: 50px auto;
+}
+
+.left {
+  text-align: left; /* Rata kiri */
+  font-family: "Georgia", serif;
+}
+
+.left h1 {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+.left h3 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.left p {
+  font-size: 18px;
+  color: #333;
+}
+
+.right img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; /* Membuat gambar bulat */
+  border: 3px solid rgb(8, 41, 68);
+}
+
+
+
+
+
+
+
+  
+  

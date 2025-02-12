@@ -1,0 +1,13 @@
+Heading Utama: DEVI MAULANI
+H1: DEVI MAULANI
+H2: TENTANG SAYA
+H2: PENDIDIKAN
+H2: KEMAMPUAN TEKNIS
+H2: HARAPAN KETIKA LULUS
+H2: CONTACT PERSON
+H3: MAHASISWA
+Link Navigasi: #profile - Profil Pribadi
+Link Navigasi: #education - Riwayat Pendidikan
+Link Navigasi: #skills - Kemampuan
+Link Navigasi: #hope - Lampiran
+Link Navigasi: #contact - Contact
